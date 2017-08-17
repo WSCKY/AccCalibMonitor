@@ -649,7 +649,7 @@ public class MainFrame extends JFrame{
 					}
 				}
 			});
-			pref.put("_baro_Interface", _Interface);
+			pref.put("_acc_Interface", _Interface);
 		}
 	};
 
